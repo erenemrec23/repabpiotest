@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MyCompany.MyProject.Application.Contracts/MyCompany.MyProject.Application.Contracts.csproj" />
+    <Project Path="src/MyCompany.MyProject.Application/MyCompany.MyProject.Application.csproj" />
+    <Project Path="src/MyCompany.MyProject.AuthServer/MyCompany.MyProject.AuthServer.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.Client/MyCompany.MyProject.Blazor.Client.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.Server.Tiered/MyCompany.MyProject.Blazor.Server.Tiered.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.Server/MyCompany.MyProject.Blazor.Server.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.WebApp.Client/MyCompany.MyProject.Blazor.WebApp.Client.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.WebApp.Tiered.Client/MyCompany.MyProject.Blazor.WebApp.Tiered.Client.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.WebApp.Tiered/MyCompany.MyProject.Blazor.WebApp.Tiered.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor.WebApp/MyCompany.MyProject.Blazor.WebApp.csproj" />
+    <Project Path="src/MyCompany.MyProject.Blazor/MyCompany.MyProject.Blazor.csproj" />
+    <Project Path="src/MyCompany.MyProject.DbMigrator/MyCompany.MyProject.DbMigrator.csproj" />
+    <Project Path="src/MyCompany.MyProject.Domain.Shared/MyCompany.MyProject.Domain.Shared.csproj" />
+    <Project Path="src/MyCompany.MyProject.Domain/MyCompany.MyProject.Domain.csproj" />
+    <Project Path="src/MyCompany.MyProject.EntityFrameworkCore/MyCompany.MyProject.EntityFrameworkCore.csproj" />
+    <Project Path="src/MyCompany.MyProject.HttpApi.Client/MyCompany.MyProject.HttpApi.Client.csproj" />
+    <Project Path="src/MyCompany.MyProject.HttpApi.Host/MyCompany.MyProject.HttpApi.Host.csproj" />
+    <Project Path="src/MyCompany.MyProject.HttpApi.Host/MyCompany.MyProject.HttpApi.Host.csproj" />
+    <Project Path="src/MyCompany.MyProject.HttpApi/MyCompany.MyProject.HttpApi.csproj" />
+    <Project Path="src/MyCompany.MyProject.MongoDB/MyCompany.MyProject.MongoDB.csproj" />
+    <Project Path="src/MyCompany.MyProject.Web.Host/MyCompany.MyProject.Web.Host.csproj" />
+    <Project Path="src/MyCompany.MyProject.Web/MyCompany.MyProject.Web.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/MyCompany.MyProject.Application.Tests/MyCompany.MyProject.Application.Tests.csproj" />
+    <Project Path="test/MyCompany.MyProject.Domain.Tests/MyCompany.MyProject.Domain.Tests.csproj" />
+    <Project Path="test/MyCompany.MyProject.EntityFrameworkCore.Tests/MyCompany.MyProject.EntityFrameworkCore.Tests.csproj" />
+    <Project Path="test/MyCompany.MyProject.HttpApi.Client.ConsoleTestApp/MyCompany.MyProject.HttpApi.Client.ConsoleTestApp.csproj" />
+    <Project Path="test/MyCompany.MyProject.MongoDB.Tests/MyCompany.MyProject.MongoDB.Tests.csproj" />
+    <Project Path="test/MyCompany.MyProject.TestBase/MyCompany.MyProject.TestBase.csproj" />
+    <Project Path="test/MyCompany.MyProject.Web.Tests/MyCompany.MyProject.Web.Tests.csproj" />
+  </Folder>
+</Solution>
