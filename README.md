@@ -1,5 +1,5 @@
 
-## bunu github dan ekledim
+## bunu github dan ekledim22
 # MyCompany.MyProject
 
 ## About this solution
