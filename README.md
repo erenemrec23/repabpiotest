@@ -1,3 +1,5 @@
+
+## bunu github dan ekledim
 # MyCompany.MyProject
 
 ## About this solution
